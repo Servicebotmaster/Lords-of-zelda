@@ -1,6 +1,6 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-    <img src="./AnyaPikaMedia/HomeScreen/Anyapic.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="./AnyaPikaMedia/HomeScreen/zeldapic.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 ## IMPORTANT
