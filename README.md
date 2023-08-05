@@ -9,14 +9,14 @@
 
 <h1 align="center">lord Zelda - MultiDevice</h1>
 <p align="center">
-  <a href="https://github.com/PikaBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Queen+Anya+v2+MultiDevice;Developed+on+Cheems+v4+Base;Developed+by+Pika~Kun;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme">
+  <a href="https://github.com/PikaBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Queen+Anya+v2+MultiDevice;Developed+on+Cheems+v4+Base;Developed+by+Pika~Kun;Give+star+and+forks+this+Repo+🌟" alt="ZeldaReadme">
 </p>
 
 <p align="center">
  <a href="#"><img title="lord_Zelda_v2-MD" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/PikaBotz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-PikaBotz-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/servicebotmaster"><img title="Author" src="[](https://img.shields.io/badge/Author-black_miran-gold)"></a>
 
 ---------
 ## Now You Can Start Bot With Yarn only Just Type yarn In Terminal
