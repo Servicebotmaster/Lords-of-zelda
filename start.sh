@@ -1,6 +1,6 @@
-rm -rf Anya-Session
+rm -rf Zelda-Session
 rm -rf An*on
-mkdir Anya-Session
+mkdir Zelda-Session
 latest_file=$(ls -t creds-*.json 2>/dev/null | head -n1)
 if [ -n "$latest_file" ]; then 
   file_extension="${latest_file##*.}"
