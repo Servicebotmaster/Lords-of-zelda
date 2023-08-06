@@ -1,7 +1,7 @@
 {
-  "name": "Lord-Zelda md",
+  "name": "QueenAnya-MD-V2",
   "version": "2.0.8_4",
-  "description": "an RPG modular whatsApp bot created by node.js",
+  "description": "A modular whatsApp bot created by node.js",
   "main": "Anyaindex.js",
   "type": "commonjs",
   "scripts": {
@@ -18,15 +18,15 @@
     "bot-md",
     "multi-device"
   ],
-  "homepage": "https://github.com/Servicebotmaster/Lords-of-zelda#readme",
+  "homepage": "https://github.com/PikaBotz/Anya-pika-MD-v2#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Servicebotmaster/Lords-of-zelda"
+    "url": "git+https://github.com/PikaBotz/Anya-pika-MD-v2"
   },
   "bugs": {
-    "url": "https://github.com/Servicebotmaster/Lords-of-zelda/issues"
+    "url": "https://github.com/PikaBotz/Anya-pika-MD-v2/issues"
   },
-  "author": "Miran",
+  "author": "Pika",
   "license": "GPL-3.0",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -90,8 +90,8 @@
     "xfarr-api": "^1.0.3",
     "yargs": "^17.6.0",
     "yarn": "latest",
-    "youtube-yts": "",
-    "youtubedl-core": ""
+    "youtube-yts": "npm:@queenanya/ytsearch",
+    "youtubedl-core": "npm:@queenanya/ytdlcore"
   },
   "packageManager": "yarn@1.22.19"
-}
+  }
